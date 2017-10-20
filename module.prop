@@ -1,7 +1,7 @@
-id=iYTBPforMagisk
-name=iYTBP for Magisk
+id=iYTBP
+name=iYTBP
 version=v3.0
-versionCode=3.0
-author=m0yP
+versionCode=3
+author=Jplwolters
 description=Ad-free YouTube with background play
 template=1400
